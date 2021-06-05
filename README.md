@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @leewalmach
-- 👀 I’m interested in learning to be a problem solver
-- 🌱 I’m currently learning HTML and CSS
-- 📫 Find me on LinkedIn!
+Hey there 👋
+
+I'm Lee Walmach, an underwriter with Guardian learning about front end development.
+
+📪 Get in touch:
+
+https://www.linkedin.com/in/lwalmach/
