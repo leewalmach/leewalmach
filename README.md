@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leewalmach
+- 👀 I’m interested in learning to be a problem solver
+- 🌱 I’m currently learning HTML and CSS
+- 📫 Find me on LinkedIn!
